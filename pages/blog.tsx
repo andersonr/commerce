@@ -59,34 +59,15 @@ export default function Blog() {
         {/** Replace by HTML Content */}
         <div className="text-lg leading-7 font-medium py-6 text-justify max-w-6xl mx-auto">
           <p className="py-6">
-            Biscuit oat cake wafer icing ice cream tiramisu pudding cupcake.
-            Candy canes bonbon dragée jujubes chocolate bar. Cotton candy gummi
-            bears toffee cake muffin caramels. Gummi bears danish liquorice ice
-            cream pie chocolate cake lemon drops tootsie roll tart. Biscuit
-            gingerbread fruitcake cake powder pudding cotton candy chocolate
-            bar. Sweet donut marshmallow powder gummies jelly tart powder.
-            Cheesecake bonbon caramels cupcake jujubes halvah donut dessert
-            chocolate bar. Jelly gummies liquorice lollipop chocolate bar
-            chocolate cake sugar plum. Lollipop toffee dragée chocolate bar
-            jelly beans biscuit. Halvah danish cheesecake. Tiramisu donut
-            lollipop pie donut caramels tiramisu. Jujubes candy canes pudding
-            danish fruitcake chupa chups jujubes carrot cake bonbon. Halvah
-            donut jelly halvah bonbon.
+          Mussum Ipsum, cacilds vidis litro abertis. Nullam volutpat risus nec leo commodo, ut interdum diam laoreet. Sed non consequat odio. Admodum accumsan disputationi eu sit. 
+          Vide electram sadipscing et per. Detraxit consequat et quo num tendi nada. Diuretics paradis num copo é motivis de denguis. 
+          Paisis, filhis, espiritis santis. Atirei o pau no gatis, per gatis num morreus. A ordem dos tratores não altera o pão duris. Per aumento de cachacis, eu reclamis. 
           </p>
           <p className="py-6">
-            Biscuit sugar plum sweet chocolate cake sesame snaps soufflé
-            topping. Gummies topping bonbon chocolate pudding cookie. Wafer
-            icing cake pastry. Gummies candy dessert chupa chups lemon drops.
-            Soufflé marshmallow oat cake chocolate jelly-o caramels pie marzipan
-            jelly beans. Cheesecake liquorice donut jujubes halvah ice cream
-            cotton candy cupcake sugar plum. Ice cream ice cream sweet roll
-            fruitcake icing. Muffin candy canes bonbon croissant gummies lemon
-            drops pie danish. Oat cake chocolate toffee cake jelly tart
-            caramels. Sweet donut cheesecake pastry pie sweet. Bonbon lollipop
-            brownie. Soufflé pudding macaroon cotton candy gingerbread. Biscuit
-            macaroon gummi bears candy canes chocolate cake lemon drops
-            marshmallow. Chocolate cake cotton candy marshmallow cake sweet
-            tootsie roll bonbon carrot cake sugar plum.
+          Mussum Ipsum, cacilds vidis litro abertis. Sapien in monti palavris qui num significa nadis i pareci latim.
+          Detraxit consequat et quo num tendi nada. Quem manda na minha terra sou euzis! Todo mundo vê os porris que eu tomo, mas ninguém vê os tombis que eu levo!
+          Delegadis gente finis, bibendum egestas augue arcu ut est. Nec orci ornare consequat. Praesent lacinia ultrices consectetur. Sed non ipsum felis. 
+          In elementis mé pra quem é amistosis quis leo. A ordem dos tratores não altera o pão duris. 
           </p>
         </div>
       </Container>
