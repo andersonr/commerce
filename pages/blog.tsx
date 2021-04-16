@@ -21,7 +21,7 @@ export default function Blog() {
       <div className="text-center pt-40 pb-56 bg-violet">
         <Container>
           <h2 className="text-4xl tracking-tight leading-10 font-extrabold text-white sm:text-5xl sm:leading-none md:text-6xl">
-            Welcome to Acme, the simplest way to start publishing with Next.js
+            Bem-vindos a Mussumdis Store, aonde vendemos tudo pela metade do dobro
           </h2>
           <p className="mt-3 max-w-md mx-auto text-gray-100 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl">
             The Yeezy BOOST 350 V2 lineup continues to grow. We recently had the
